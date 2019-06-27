@@ -62,13 +62,13 @@ a:hover{
 
 .topcloud {
   position: absolute;
-  right: 300px;
+  right: 100px;
   top: 40px;
 }
 
 .bottomcloud {
   position: absolute;
-  left: 250px;
+  left: 100px;
   bottom: 230px;
   padding-bottom: 30px;
 }
